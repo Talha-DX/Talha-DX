@@ -1,6 +1,5 @@
 # 🌟 Hi, I'm Talha 👋
 
-
 🚀 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**
 
 ---

@@ -5,6 +5,7 @@
 ---
 
 ## 🔥 About Me
+
 🎓 **BS Computer Science Student** at Unversity of Wah.  
 💡 Passionate about **coding, problem-solving, and innovation**  
 🧠 Currently diving into **Object-Oriented Programming (OOP) & Data Structures & Algorithms (DSA)**  

@@ -60,7 +60,7 @@ My journey involves mastering both front-end and back-end technologies while mai
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=Talha-DX&show_icons=true&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 ![](https://streak-stats.demolab.com?user=yourusername&theme=radical)  
 

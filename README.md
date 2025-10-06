@@ -45,7 +45,7 @@ My journey involves mastering both front-end and back-end technologies while mai
 
 ### Frameworks & Libraries  
 ![](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)  
-[](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
+![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
 ![](https://img.shields.io/badge/SDL-07405E?style=for-the-badge&logo=sdl&logoColor=white)  
 
 ---

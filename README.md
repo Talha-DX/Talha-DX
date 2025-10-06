@@ -45,7 +45,7 @@ My journey involves mastering both front-end and back-end technologies while mai
 
 ### Frameworks & Libraries  
 ![](https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=java&logoColor=white)  
-![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
+[](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  
 ![](https://img.shields.io/badge/SDL-07405E?style=for-the-badge&logo=sdl&logoColor=white)  
 
 ---
@@ -61,7 +61,7 @@ My journey involves mastering both front-end and back-end technologies while mai
 ## 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=Talha-DX&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-DX&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-DX&layout=compact&theme=radical)
 ![](https://streak-stats.demolab.com?user=Talha-DX&theme=radical)  
 
 ---

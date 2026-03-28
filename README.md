@@ -1,106 +1,92 @@
 <div align="center">
 
-# 💻 Hi, I'm Talha! 👋
+# ⚡ Hi, I'm Talha! ⚡
+### 🚀 Full-Stack Developer | Problem Solver | Computer Science Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Continuous+Learner;Building+the+Future+One+Commit+at+a+Time)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 
-**Turning ideas into scalable web experiences**  
-*Computer Science Student @ University of Wah*
+---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-talha-23a0a1301/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:talha105th@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
+
+</div>
+
+## 📖 About Me
+
+I'm a passionate **Computer Science student** at the University of Wah. I bridge the gap between complex backend logic and sleek frontend design. My mission is to build scalable applications that solve real-world problems.
+
+- 🔭 **Currently working on:** Mastering the MERN Stack.
+- 🧠 **Learning:** Deep diving into Data Structures & Algorithms.
+- 💬 **Ask me about:** React, Node.js, and why clean code matters.
+- ⚡ **Fun Fact:** I believe code should be as readable as a good book.
+
+---
+
+## 🛠️ My Tech Toolbox
+
+### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,cpp,java,cs" />
+</p>
+
+### 💾 Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake.svg">
+</picture>
+
+> **Note:** To make the snake move, you need to set up a GitHub Action. [Click here](https://github.com/Platane/snk) to see how to enable it!
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Talha-DX&show_icons=true&theme=tokyonight&count_private=true" alt="Talha's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-DX&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Talha-DX&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🚀 About Me
-
-Passionate **Full-Stack Developer** in the making with a strong foundation in Computer Science. I love crafting efficient, user-friendly applications from concept to deployment.
-
-I thrive on solving complex problems, writing clean code, and continuously exploring new technologies. Whether it's building responsive frontends or robust backends, I enjoy the full development lifecycle.
-
-Currently focused on mastering the **MERN stack** while sharpening my **Data Structures & Algorithms** skills for technical interviews.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-### Backend & Languages
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-**Frameworks & Libraries:** Java Swing • Qt • SDL
-
----
-
-## 📈 Currently Focusing On
-
-- 🔭 Mastering the **MERN Stack** for modern web apps
-- 🧠 Deepening **DSA** knowledge for interviews & problem-solving
-- 🎯 Building scalable, performant full-stack projects
-- 🤝 Open to **collaborations** on exciting open-source or freelance work
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Talha-DX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-DX&layout=compact&theme=radical&hide_border=true)
-![](https://streak-stats.demolab.com?user=Talha-DX&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-*(Add your best repositories here with short descriptions and links)*
-
-- **Project Name** — Brief one-line description. [→ View Repo](https://github.com/Talha-DX/repo-name)
-- **Another Project** — What it does and tech used.
-
----
-
-## 📫 Let's Connect & Collaborate!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-talha-23a0a1301/)
-- 📧 **talha105th@gmail.com**
-- 💻 Portfolio: *In Progress* — Coming Soon!
-
-Feel free to reach out if you want to discuss tech, collaborate on a project, or just say hi!
-
----
-
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**⚡ Passionate about creating meaningful solutions that make a difference.**  
-Let's build something amazing together! 🚀
+## 🏆 Unique Projects & Achievements
+* **Scalable Architecture:** I don't just "write code," I design systems.
+* **UI/UX Focus:** obsessed with making things look as good as they function.
+* **Open Source:** Actively seeking meaningful projects to contribute to.
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ and lots of ☕</sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  
+  <br />
+  
+  <sub>Built with ❤️ by **Talha-DX**</sub>
 </div>

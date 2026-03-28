@@ -55,19 +55,9 @@ I'm a passionate **Computer Science student** at the University of Wah. I bridge
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </picture>
 
-> **Note:** To make the snake move, you need to set up a GitHub Action. [Click here](https://github.com/Platane/snk) to see how to enable it!
-
 ---
 
 ## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha-DX&show_icons=true&theme=tokyonight&count_private=true" alt="Talha's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-DX&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Talha-DX&theme=tokyonight" alt="GitHub Streak" />
 </div>

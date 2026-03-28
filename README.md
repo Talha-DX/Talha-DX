@@ -52,8 +52,6 @@ I'm a passionate **Computer Science student** at the University of Wah. I bridge
 
 ## 🐍 My Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake.svg">
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </picture>
 

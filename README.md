@@ -54,7 +54,7 @@ I'm a passionate **Computer Science student** at the University of Wah. I bridge
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Talha-DX/Talha-DX/output/github-contribution-grid-snake.svg">
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </picture>
 
 > **Note:** To make the snake move, you need to set up a GitHub Action. [Click here](https://github.com/Platane/snk) to see how to enable it!

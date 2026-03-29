@@ -76,5 +76,4 @@ I'm a passionate **Computer Science student** at the University of Wah. I bridge
   
   <br />
   
-  <sub>Built with ❤️ by **Talha-DX**</sub>
 </div>
